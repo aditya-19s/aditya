@@ -33,12 +33,12 @@ body {
 }
 
 .sidebar a:hover {
-    background: #2563eb;
+    background: #14697e;
 }
 
 .main-content {
     flex: 1;
-    padding: 40px;
+    padding: 20px;
 }
 
 header {
@@ -46,8 +46,8 @@ header {
 }
 
 header p {
-    color: #64748b;
-    margin-top: 8px;
+    color: #2565be;
+    margin-top: 6px;
 }
 
 .cards {
@@ -65,12 +65,12 @@ header p {
 }
 
 .card h2 {
-    color: #2563eb;
+    color: #4b566d;
     margin: 15px 0;
 }
 
 .activity {
-    background: white;
+    background: rgb(153, 17, 17);
     padding: 25px;
     border-radius: 12px;
 }
